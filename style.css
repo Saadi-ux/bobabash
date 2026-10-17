@@ -11,10 +11,16 @@ body.Elden{
     font-size: 20px;
 }
 .sekiro{
+   font-family: "SERPENTINE", sans-serif;
    color: white;
-     background-size: fill;
+     background-size: cover;
      text-align: center;
     
+}
+.sekiro * {
+    font-family: "SERPENTINE", sans-serif;
+    text-shadow: 3px 3px 5px black;
+    font-size: 20px;
 }
 h1
 {
